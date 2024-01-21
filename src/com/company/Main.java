@@ -17,23 +17,40 @@ public class Main {
 
         Student[] students = new Student[5];
 
-        Student stud1;//Just declaring the object of Student class
-//        System.out.println(Arrays.toString(students));
-//        student1 = new Student();
-//        New keyword dynamically allocates memory and return a reference to it
-
-
-//        Create a class
-//        Class - Prototype of an object
-//        The rules which help to develop object
-//        Prototype - Instance of a class
-//        Actually visible which uses some rules to be created
-//        Instance variable - Variable Inside the o
-
+        //Just declaring the object of Student class
+        Student kunal = new Student(13, "Kunal Kushwaha", 96.5f);
+//        kunal.rno = 13;
+//        kunal.name = "Kunal Kushwaha";
+//        kunal .marks = 88.5f;
+//        System.out.println(kunal);
+        System.out.println(kunal.rno);
+        System.out.println(kunal.name);
+        System.out.println(kunal.marks);
+        Student rahul = new Student(14, "Rahul", 90.2f);
+        System.out.println(rahul.rno);
+        System.out.println(rahul.name);
+        System.out.println(rahul.marks);
+        kunal.greeting();
+        rahul.greeting();
+        kunal.changeName("Sumit");
+        rahul.changeName("Ravi");
     }
 }
 class Student {
-    int rno;
-    String name;
-    float marks;
+    int rno = 14;
+    String name = "kashish";
+    float marks = 90.0f;
+
+    void changeName(String newName) {
+        name = newName;
+        System.out.println(newName);
+    }
+    void greeting() {
+        System.out.println("Hello, my name is: " + this.name);
+    }
+    Student(int rnoooo, String names, float marksssss) {
+        this.rno = rnoooo;
+        this.name= names;
+        this.marks = marksssss;
+    }
 }
