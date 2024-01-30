@@ -7,7 +7,7 @@ public class Overloading {
         fun("Hello");
         System.out.println(sum(5,8));
         demo(2,3,4,5);
-        demo("Kunal", "Rachit");
+//        demo("Kunal", "Rachit");
 //        demo();Error because don't know which method to run
     }
 
@@ -27,10 +27,10 @@ public class Overloading {
     }
 
     static void demo(int ...v) {
-        System.out.println(Arrays.toString(v));
+//        System.out.println(Arrays.toString(v));
     }
 
-    static void demo(String ...v) {
-        System.out.println(Arrays.toString(v));
-    }
+//    static void demo(String ...v) {
+//        System.out.println(Arrays.toString(v));
+//    }
 }
