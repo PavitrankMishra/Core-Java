@@ -17,15 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/ArrayListExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/MultiAl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -88,11 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/EvenDigits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Patterns.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -169,10 +169,11 @@
         <option value="$PROJECT_DIR$/src/com/company/minElement.java" />
         <option value="$PROJECT_DIR$/src/com/company/Searchin2DArray.java" />
         <option value="$PROJECT_DIR$/src/com/company/EvenDigits.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Patterns.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1030" />
@@ -182,32 +183,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Core Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -228,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EvenDigits">
+  <component name="RunManager" selected="Application.Patterns">
     <configuration name="EvenDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.EvenDigits" />
       <module name="Core Java" />
@@ -242,8 +218,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.SearchInRange" />
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Patterns" />
       <module name="Core Java" />
       <extension name="coverage">
         <pattern>
@@ -255,8 +231,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.SearchInStrings" />
+    <configuration name="SearchInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SearchInRange" />
       <module name="Core Java" />
       <extension name="coverage">
         <pattern>
@@ -296,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Patterns" />
         <item itemvalue="Application.EvenDigits" />
         <item itemvalue="Application.Searchin2DArray" />
         <item itemvalue="Application.minElement" />
         <item itemvalue="Application.SearchInRange" />
-        <item itemvalue="Application.SearchInStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -340,16 +316,18 @@
       <workItem from="1706661718360" duration="2243000" />
       <workItem from="1706664001393" duration="1493000" />
       <workItem from="1706665811867" duration="19000" />
+      <workItem from="1706749956128" duration="2441000" />
+      <workItem from="1706755038386" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48051000" />
+    <option name="totallyTimeSpent" value="50505000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <frame x="-8" y="0" width="784" height="824" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17292225" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35950413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,6 +375,12 @@
           <line>6</line>
           <properties />
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Patterns.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -723,6 +707,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/EvenDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/wrapperExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -730,10 +721,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/EvenDigits.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Patterns.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="85">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
         </state>
       </provider>
     </entry>
