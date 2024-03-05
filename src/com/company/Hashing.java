@@ -3,53 +3,53 @@ package com.company;
 import java.util.*;
 public class Hashing {
     public static void main(String[] args) {
-//        Number hashing
         Scanner sc = new Scanner(System.in);
-//        System.out.println("Enter the length of array");
-//        int n = sc.nextInt();
-//        int[] arr = new int[n];
-//        System.out.println("Enter the elements of the array");
-//        for(int i=0;i<n;i++) {
-//            arr[i] = sc.nextInt();
+//        Create a hash table
+        Hashtable<Integer, String> hm = new Hashtable<Integer,String>();
+//        hm.put(3,"You are visiting");
+//        hm.put(5,"Hello");
+//        hm.put(1,"Website");
+//        hm.put(2,"Javatpoint");
+//        System.out.println(hm);
+
+//        Creates an empty hashmap
+//        HashMap<Integer,Integer> hm1 = new HashMap<Integer,Integer>();
+////        System.out.println(hm1);
+//        int[] arr = {1,6,5,10,6,6,10};
+//
+//        for(int i=0;i<arr.length;i++) {
+//            Integer n = hm1.get(arr[i]);
+//
+//            if(hm1.get(arr[i]) == null) {
+//                hm1.put(arr[i], 1);
+//            } else {
+//                hm1.put(arr[i], ++n);
+//            }
 //        }
 //
-////        precompute
-//        int[] hash = new int[n];
-//        for(int i=0;i<n;i++) {
-//            hash[arr[i]] += 1;
-//        }
-//        int q;
-//        q = sc.nextInt();
-//        while(q-- > 0) {
-//            int number;
-//            number = sc.nextInt();
-//            System.out.println(hash[number]);
-//        }
+//        System.out.println(hm1);
 
-//        Character hashing
-
-        int x = 'a';//It will store ascii value
-        System.out.println(x);
-
-        System.out.println("Enter the string");
-        String s;
-        s = sc.next();
-
-//        pre compute
-
-        int[] hash = new int[26];
-        for(int i=0;i<s.length();i++) {
-            hash[s.charAt(i)-'a']++;
+//        Hashmap striver
+//        Taking input for array
+        int n = 5;
+        int[] arr = new int[n];
+//        Take the input of array
+        for(int i=0;i<n;i++) {
+            System.out.println("Enter the element: ");
+            arr[i] = sc.nextInt();
         }
-        System.out.println("Enter the number of character s to be checked");
+
+        int[] hash = new int[13];
+        for(int i=0;i<n;i++) {
+            hash[arr[i]] += 1;
+        }
+
         int q;
         q = sc.nextInt();
         while(q-- > 0) {
-            char c;
-            c = sc.next().charAt(0);
-//            System.out.println(c);
-            System.out.println(hash[c-'a']);
+            int number;
+            number = sc.nextInt();
+            System.out.println(hash[number]);
         }
-
     }
 }
