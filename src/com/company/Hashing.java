@@ -31,14 +31,14 @@ public class Hashing {
 
 //        Hashmap striver
 //        Taking input for array
-        int n = 5;
+        System.out.println("Enter the length of the array");
+        int n = sc.nextInt();
         int[] arr = new int[n];
-//        Take the input of array
         for(int i=0;i<n;i++) {
-            System.out.println("Enter the element: ");
             arr[i] = sc.nextInt();
         }
 
+//        Precompute
         int[] hash = new int[13];
         for(int i=0;i<n;i++) {
             hash[arr[i]] += 1;
@@ -51,5 +51,25 @@ public class Hashing {
             number = sc.nextInt();
             System.out.println(hash[number]);
         }
+        }
     }
-}
+//        int n = 5;
+//        int[] arr = new int[n];
+////        Take the input of array
+//        for(int i=0;i<n;i++) {
+//            System.out.println("Enter the element: ");
+//            arr[i] = sc.nextInt();
+//        }
+//
+//        int[] hash = new int[13];
+//        for(int i=0;i<n;i++) {
+//            hash[arr[i]] += 1;
+//        }
+//
+//        int q;
+//        q = sc.nextInt();
+//        while(q-- > 0) {
+//            int number;
+//            number = sc.nextInt();
+//            System.out.println(hash[number]);
+//}
