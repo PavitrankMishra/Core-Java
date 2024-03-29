@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d0978abe-4774-457f-9eb4-b7fb698fde8a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Java/com/company/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/com/company/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Java/com/company/Hashing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/com/company/Hashing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Hashing.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,28 +30,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Hashing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Recursion1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
+            <state relative-caret-position="816">
               <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Hashing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="610">
+              <caret line="90" column="32" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,7 +116,6 @@
         <option value="$PROJECT_DIR$/src/com/company/minElement.java" />
         <option value="$PROJECT_DIR$/src/com/company/Searchin2DArray.java" />
         <option value="$PROJECT_DIR$/src/com/company/EvenDigits.java" />
-        <option value="$PROJECT_DIR$/src/com/company/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/com/company/OrderAgnostics.java" />
         <option value="$PROJECT_DIR$/src/com/company/RowColMatrix.java" />
         <option value="$PROJECT_DIR$/src/com/company/SortedMatrix.java" />
@@ -116,16 +130,17 @@
         <option value="$PROJECT_DIR$/src/com/company/Hashmap.java" />
         <option value="$PROJECT_DIR$/Basic/Numbers.java" />
         <option value="$PROJECT_DIR$/src/com/company/Listing.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Hashing.java" />
         <option value="$PROJECT_DIR$/src/com/company/Recursion1.java" />
         <option value="$PROJECT_DIR$/src/com/company/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Hashing.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1030" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -179,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectionSort">
+  <component name="RunManager" selected="Application.Hashing">
     <configuration name="Hashing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Hashing" />
       <module name="Core Java" />
@@ -247,9 +262,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hashing" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.Recursion1" />
-        <item itemvalue="Application.Hashing" />
         <item itemvalue="Application.Listing" />
         <item itemvalue="Application.InterThird" />
       </list>
@@ -321,16 +336,22 @@
       <workItem from="1709639265363" duration="1674000" />
       <workItem from="1709686402470" duration="3685000" />
       <workItem from="1709876439585" duration="2059000" />
+      <workItem from="1709894343873" duration="848000" />
+      <workItem from="1710173619931" duration="38000" />
+      <workItem from="1710173798462" duration="44000" />
+      <workItem from="1711628001677" duration="1236000" />
+      <workItem from="1711642090649" duration="1529000" />
+      <workItem from="1711685207611" duration="593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94864000" />
+    <option name="totallyTimeSpent" value="99152000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <frame x="-6" y="0" width="781" height="822" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3894102" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2506887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -339,7 +360,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31330472" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31259045" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,7 +370,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32474965" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32416788" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -598,13 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/InterSecond.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -686,16 +700,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Hashing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Recursion1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="816">
           <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
         </state>
       </provider>
@@ -703,7 +710,24 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Hashing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="90" column="32" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
