@@ -1,5 +1,5 @@
 //Q.)You are given a string expression representing an expression.
-//   Assuming that the string is balanced you are required to print true if brackets are extra or there are duplicate brackets.
+//   Assuming that the string is balanced you are required to print true if brackets are extra or there are duplicate brackets or redundant brackets.
 
 package com.company;
 import java.util.*;
