@@ -1,27 +1,25 @@
 package com.company;
 
 public class OOPS1 {
+    public static class Person {
+        int age;
+        String name;
+
+        void saysHi(){
+            System.out.println(name + "[" + age + "] says hi" );
+        }
+    }
     public static void main(String[] args) {
 
+        Person p1 = new Person();
+        p1.age = 10;
+        p1.name = "A";
+        p1.saysHi();
 
-        Student student1 = new Student();//Reference to an object of type student
-        //new keyword means dynamically allocated memory & returns a reference to it.
-        student1.rno = 45;
-        student1.name = "Kunal";
-        student1.marks = 90.2f;
-        System.out.println(student1.rno);
-        System.out.println(student1.name);
-        System.out.println(student1.marks);
+        Person p2 = new Person();
+        p2.age = 20;
+        p2.name ="B";
+        p2.saysHi();
 
     }
-}
-
-//        Create a class - A named group of properties and functions
-//        A object is an instance of a class
-//        A class is a template for object
-//        Instance variable - Variable inside the class but outside the object
-class Student {
-    int rno;
-    String name;
-    float marks;
 }
