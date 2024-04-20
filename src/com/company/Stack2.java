@@ -8,32 +8,36 @@ public class Stack2 {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
         Stack<Character> st = new Stack<Character>();
-        for(int i=0;i<str.length();i++) {
+
+        for (int i = 0; i < str.length(); i++) {
             char ch = str.charAt(i);
-            if(ch == '(' || ch == '{' || ch == '[') {
+            if (ch == '(' || ch == '{' || ch == '[') {
                 st.push(ch);
-            } else if(ch == ')'){
+            } else if (ch == ')') {
                 handleClosingStack(st, '(');
-            } else if(ch == '}') {
+            } else if (ch == '}') {
                 handleClosingStack(st, '{');
-            } else if(ch == ']') {
+            } else if (ch == ']') {
                 handleClosingStack(st, '[');
             }
         }
 
-        if(st.size()==0) {
-            System.out.println(true);
+        if (st.size() == 0) {
+            System.out.println("Balanced");
+            System.out.println("The stack is: balanced" );
         } else {
-            System.out.println(false);
+            System.out.println("Not Balanced");
+            System.out.println("The stack is: " + st);
         }
-         System.out.println("The stack is:" + st );
+
+
     }
-    public static void handleClosingStack(Stack<Character> st, char element) {
-        if(st.size() == 0){
+    public static void handleClosingStack(Stack<Character> st, char element){
+        if(st.size()==0) {
             System.out.println("Not balanced");
-            return ;
-        } else if(st.peek() != element){
-            System.out.println("Not balanced");
+            return;
+        } else if(st.peek()!= element) {
+            System.out.println("Balanced");
             return;
         } else {
             st.pop();

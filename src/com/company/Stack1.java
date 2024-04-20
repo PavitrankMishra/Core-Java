@@ -11,12 +11,13 @@ public class Stack1 {
         Stack<Character> st = new Stack<Character>();
         for(int i=0;i<str.length();i++) {
             char ch = str.charAt(i);
-            if(ch ==')') {
+            if(ch == ')') {
                 if(st.peek() == '(') {
                     System.out.println(true);
+                    System.out.println("Not a balanced string");
                     return ;
                 } else {
-                    while(st.peek()!='('){
+                    while(st.peek()!= '(') {
                         st.pop();
                     }
                     st.pop();
