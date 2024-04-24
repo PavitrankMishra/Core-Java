@@ -9,23 +9,20 @@ import java.util.*;
 public class Stack3 {
     public static int[] callAnswer(int[] a) {
         int[] nge = new int[a.length];
+        Stack<Integer> st = new Stack<Integer>();
 
-        Stack<Integer> st = new Stack();
-
-        st.push(a[a.length-1]);
-        nge[a.length-1] = -1;
-        for(int i=a.length - 2;i>=0;i--){
+        st.push(a[a.length - 1]);
+        for (int i = a.length - 2; i >= 0; i--) {
 //            -a+
-            while(st.size() > 0 && a[i] >= st.peek() ) {
+            while (st.size() > 0 && a[i] >= st.peek()) {
                 st.pop();
             }
 
-            if(st.size() == 0) {
+            if (st.size() == 0) {
                 nge[i] = -1;
             } else {
                 nge[i] = st.peek();
             }
-
             st.push(a[i]);
         }
         return nge;
