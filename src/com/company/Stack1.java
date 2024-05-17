@@ -7,25 +7,23 @@ import java.util.*;
 public class Stack1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String str = sc.nextLine();
+        String s = sc.nextLine();
         Stack<Character> st = new Stack<Character>();
-        for(int i=0;i<str.length();i++) {
-            char ch = str.charAt(i);
+        for(int i=0;i<s.length();i++) {
+            char ch = s.charAt(i);
             if(ch == ')') {
-                if(st.peek() == '(') {
+                if(st.peek() == '('){
                     System.out.println(true);
-                    System.out.println("Not a balanced string");
-                    return ;
+                    return;
                 } else {
-                    while(st.peek()!= '(') {
+                    while (st.peek() != '(') {
                         st.pop();
                     }
-                    st.pop();
                 }
+                st.pop();
             } else {
                 st.push(ch);
             }
         }
-        System.out.println("Balanced String");
     }
 }

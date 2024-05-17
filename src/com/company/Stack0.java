@@ -1,7 +1,7 @@
 package com.company;
 import java.util.*;
 
-public class StackIntro {
+public class Stack0 {
     public static void main(String[] args) {
         Stack<Integer> st = new Stack<Integer>();
         st.push(10);
