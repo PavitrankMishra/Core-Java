@@ -2,7 +2,7 @@
 
 package com.company;
 
-public class Z1_PALINDROME {
+public class Z2_PALINDROME {
     public static void main(String[] args) {
         int x = 121;
         int num = 0;
