@@ -4,8 +4,8 @@ package com.company;
 
 public class Z1_GCD_LCM {
     public static void main(String[] args) {
-        int n1 = 15;
-        int n2 = 16;
+        int n1 = 24;
+        int n2 = 12;
 
         int on1 = n1;
         int on2 = n2;
