@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d0978abe-4774-457f-9eb4-b7fb698fde8a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/com/company/Z1_GCD_LCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/com/company/Z1_GCD_LCM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Z1_GCD_LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z1_GCD_LCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Java/com/company/Z8_LEFT_ROTATE_ARRAY.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/com/company/Z8_LEFT_ROTATE_ARRAY.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Z7_RIGHT_ROTATE_ARRAY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z7_RIGHT_ROTATE_ARRAY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Z8_LEFT_ROTATE_ARRAY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Z8_LEFT_ROTATE_ARRAY.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,20 +46,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Z7_RIGHT_ROTATE_ARRAY.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="272">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Z8_LEFT_ROTATE_ARRAY.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z9_BINARY_SEARCH.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z10_MOVE_ZEROS_END.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Z11_MISSING_NUMBER_IN_THE_ARRAY.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -78,9 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/OrderAgnostics.java" />
-        <option value="$PROJECT_DIR$/src/com/company/RowColMatrix.java" />
-        <option value="$PROJECT_DIR$/src/com/company/SortedMatrix.java" />
         <option value="$PROJECT_DIR$/src/com/company/Patterns.java" />
         <option value="$PROJECT_DIR$/src/com/company/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/com/company/Recursion.java" />
@@ -127,12 +152,15 @@
         <option value="$PROJECT_DIR$/src/com/company/Z5_FIBONACCI_NUMBER.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z6_REMOVE_DUPLICATES_FROM_ARRAY.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z1_GCD_LCM.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z9_BINARY_SEARCH.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z10_MOVE_ZEROS_END.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Z11_MISSING_NUMBER_IN_THE_ARRAY.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z7_RIGHT_ROTATE_ARRAY.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z8_LEFT_ROTATE_ARRAY.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1030" />
@@ -143,6 +171,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,8 +195,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,8 +218,8 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Z8_LEFT_ROTATE_ARRAY">
-    <configuration name="Z1_GCD_LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Z1_GCD_LCM" />
+    <configuration name="Z10_MOVE_ZEROS_END" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Z10_MOVE_ZEROS_END" />
       <module name="Core Java" />
       <extension name="coverage">
         <pattern>
@@ -203,21 +231,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Z5_FIBONACCI_NUMBER" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Z5_FIBONACCI_NUMBER" />
-      <module name="Core Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Z6_REMOVE_DUPLICATES_FROM_ARRAY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Z6_REMOVE_DUPLICATES_FROM_ARRAY" />
+    <configuration name="Z11_MISSING_NUMBER_IN_THE_ARRAY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Z11_MISSING_NUMBER_IN_THE_ARRAY" />
       <module name="Core Java" />
       <extension name="coverage">
         <pattern>
@@ -255,13 +270,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Z9_BINARY_SEARCH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Z9_BINARY_SEARCH" />
+      <module name="Core Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Z8_LEFT_ROTATE_ARRAY" />
         <item itemvalue="Application.Z7_RIGHT_ROTATE_ARRAY" />
-        <item itemvalue="Application.Z1_GCD_LCM" />
-        <item itemvalue="Application.Z6_REMOVE_DUPLICATES_FROM_ARRAY" />
-        <item itemvalue="Application.Z5_FIBONACCI_NUMBER" />
+        <item itemvalue="Application.Z11_MISSING_NUMBER_IN_THE_ARRAY" />
+        <item itemvalue="Application.Z10_MOVE_ZEROS_END" />
+        <item itemvalue="Application.Z9_BINARY_SEARCH" />
       </list>
     </recent_temporary>
   </component>
@@ -368,18 +396,20 @@
       <workItem from="1715966038054" duration="1654000" />
       <workItem from="1716024536118" duration="1181000" />
       <workItem from="1716118123219" duration="1837000" />
-      <workItem from="1717338332436" duration="863000" />
+      <workItem from="1717338332436" duration="1686000" />
+      <workItem from="1717350830340" duration="1143000" />
+      <workItem from="1717394787734" duration="7000" />
+      <workItem from="1717423210454" duration="3235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166727000" />
+    <option name="totallyTimeSpent" value="171935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2627346" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.269437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -388,7 +418,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2932761" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2932761" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3962804" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -463,27 +493,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Searchin2DArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/EvenDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Patterns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/InterSecond.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -785,17 +794,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Z7_RIGHT_ROTATE_ARRAY.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z10_MOVE_ZEROS_END.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z11_MISSING_NUMBER_IN_THE_ARRAY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z9_BINARY_SEARCH.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Z8_LEFT_ROTATE_ARRAY.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Z7_RIGHT_ROTATE_ARRAY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
