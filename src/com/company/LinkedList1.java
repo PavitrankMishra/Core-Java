@@ -86,6 +86,23 @@ public class LinkedList1 {
                 size--;
             }
         }
+
+        void removeAt(int idx) {
+            if(size == 0) {
+                System.out.println("List ia empty");
+            } else if(idx < 0 || idx >= size) {
+                System.out.println("Invalid Arguments");
+            } else {
+                Node current = head;
+                Node prev = null;
+                for(int i=0;i<idx;i++) {
+                    prev = current;
+                    current = current.next;
+                }
+                prev.next = current.next;
+                size--;
+            }
+        }
     }
 
     public static void main(String[] args) {
@@ -110,6 +127,9 @@ public class LinkedList1 {
         System.out.println(ll1.getAt(5));
         System.out.println();
         ll1.removeLast();
+        ll1.printList();
+        ll1.removeAt(5);
+        System.out.println();
         ll1.printList();
     }
 }
