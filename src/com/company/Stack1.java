@@ -10,19 +10,19 @@ public class Stack1 {
         String s = sc.nextLine();
         Stack<Character> st = new Stack<Character>();
         for(int i=0;i<s.length();i++) {
-            char ch = s.charAt(i);
-            if(ch == ')') {
-                if(st.peek() == '('){
+            char c = s.charAt(i);
+            if(c!= ')') {
+                st.push(c);
+            } else {
+                if(st.peek() == '(') {
                     System.out.println(true);
-                    return;
+                    break;
                 } else {
-                    while (st.peek() != '(') {
+                    while(st.peek() != '(') {
                         st.pop();
                     }
                 }
                 st.pop();
-            } else {
-                st.push(ch);
             }
         }
     }
