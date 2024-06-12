@@ -12,6 +12,7 @@ public class Stack3 {
         Stack<Integer> st = new Stack<Integer>();
 
         st.push(a[a.length-1]);
+        nge[a.length - 1] = -1;
         for(int i=a.length-2;i>=0;i--) {
 //            -a+
             while(st.size() > 0 && a[i] >= st.peek()) {
@@ -23,6 +24,8 @@ public class Stack3 {
             } else {
                 nge[i] = st.peek();
             }
+
+            st.push(a[i]);
         }
         return nge;
     }
@@ -37,7 +40,7 @@ public class Stack3 {
 
         int[] ans = callAnswer(a);
         for(int i=0;i<ans.length;i++) {
-            System.out.print(ans[i]);
+            System.out.print(ans[i] + " ");
         }
     }
 }
