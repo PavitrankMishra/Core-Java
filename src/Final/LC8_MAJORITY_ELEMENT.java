@@ -4,6 +4,7 @@ public class LC8_MAJORITY_ELEMENT {
     public static void main(String[] args) {
         int[] arr = new int[] {2,2,1,1,1,1,2};
         int count = 0;
+        int actualCount = 0;
         int initial = 0;
         for(int i=0;i<arr.length;i++) {
             if(count == 0) {
@@ -14,12 +15,12 @@ public class LC8_MAJORITY_ELEMENT {
             }
         }
 
-        int actualCount = 0;
-        for(int e: arr) {
+        for(int e:arr) {
             if(e == initial) {
                 actualCount++;
             }
         }
+
         System.out.println(initial);
         System.out.println(actualCount);
     }

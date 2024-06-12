@@ -2,12 +2,12 @@ package Final;
 
 public class GFG_3_BINARY_SEARCH {
     public static void main(String[] args) {
-        int[] arr = new int[]{1,2,3,4,5,6};
+        int[] arr = new int[] {1,2,3,4,5,6,7,8};
         int start = 0;
         int end = arr.length-1;
-        int target = 2;
-        while(start<= end) {
-            int mid = (start + end)/2;
+        int target = 6;
+        while(start <= end) {
+            int mid = (start + end) / 2;
             if(arr[mid] == target) {
                 System.out.println(mid);
                 break;

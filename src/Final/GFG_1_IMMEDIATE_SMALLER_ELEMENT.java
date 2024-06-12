@@ -6,7 +6,7 @@ public class GFG_1_IMMEDIATE_SMALLER_ELEMENT {
         for(int i=0;i<arr.length-1;i++) {
             int temp = arr[i+1];
             if(arr[i+1] < arr[i]) {
-                arr[i] = temp;
+                arr[i] = arr[i+1];
             } else {
                 arr[i] = -1;
             }

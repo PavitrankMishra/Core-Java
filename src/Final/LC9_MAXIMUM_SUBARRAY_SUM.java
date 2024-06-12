@@ -10,6 +10,7 @@ public class LC9_MAXIMUM_SUBARRAY_SUM {
             if(sum > max_Sum) {
                 max_Sum = arr[i];
             }
+
             if(sum < 0) {
                 sum = 0;
             }

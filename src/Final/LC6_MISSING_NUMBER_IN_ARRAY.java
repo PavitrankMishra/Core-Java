@@ -17,6 +17,8 @@ public class LC6_MISSING_NUMBER_IN_ARRAY {
             }
         }
 
+        System.out.println(count);
+
         System.out.println(result);
     }
 }
