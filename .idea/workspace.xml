@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0978abe-4774-457f-9eb4-b7fb698fde8a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/GFG_1_IMMEDIATE_SMALLER_ELEMENT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/GFG_1_IMMEDIATE_SMALLER_ELEMENT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/GFG_3_BINARY_SEARCH.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/GFG_3_BINARY_SEARCH.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/LC1_NEXT_GREATER_ELEMENT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/LC1_NEXT_GREATER_ELEMENT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/LC2_REMOVE_DUPLICATES_ARRAY.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/LC2_REMOVE_DUPLICATES_ARRAY.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/LC3_RIGHT_ROTATE_ARRAY.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/LC3_RIGHT_ROTATE_ARRAY.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/LC4_LEFT_ROTATE_ARRAY.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/LC4_LEFT_ROTATE_ARRAY.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/LC5_MOVE_ZEROS_END.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/LC5_MOVE_ZEROS_END.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/LC6_MISSING_NUMBER_IN_ARRAY.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/LC6_MISSING_NUMBER_IN_ARRAY.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/LC7_TWO_SUM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/LC7_TWO_SUM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/LC8_MAJORITY_ELEMENT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/LC8_MAJORITY_ELEMENT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/Final/LC9_MAXIMUM_SUBARRAY_SUM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/Final/LC9_MAXIMUM_SUBARRAY_SUM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/GFG_1_IMMEDIATE_SMALLER_ELEMENT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/GFG_1_IMMEDIATE_SMALLER_ELEMENT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/GFG_3_BINARY_SEARCH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/GFG_3_BINARY_SEARCH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/LC1_NEXT_GREATER_ELEMENT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/LC1_NEXT_GREATER_ELEMENT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/LC2_REMOVE_DUPLICATES_ARRAY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/LC2_REMOVE_DUPLICATES_ARRAY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/LC3_RIGHT_ROTATE_ARRAY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/LC3_RIGHT_ROTATE_ARRAY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/LC4_LEFT_ROTATE_ARRAY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/LC4_LEFT_ROTATE_ARRAY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/LC5_MOVE_ZEROS_END.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/LC5_MOVE_ZEROS_END.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/LC6_MISSING_NUMBER_IN_ARRAY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/LC6_MISSING_NUMBER_IN_ARRAY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/LC7_TWO_SUM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/LC7_TWO_SUM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/LC8_MAJORITY_ELEMENT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/LC8_MAJORITY_ELEMENT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Final/LC9_MAXIMUM_SUBARRAY_SUM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/LC9_MAXIMUM_SUBARRAY_SUM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1$LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LinkedList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LinkedList1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,10 +21,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Final/LC10_REMOVE_ELEMENT.java">
+        <entry file="file://$PROJECT_DIR$/src/Final/GFG_5_ARRAYS_EQUAL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Final/LC9_MAXIMUM_SUBARRAY_SUM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Final/LC8_MAJORITY_ELEMENT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Final/LC14_ISOMORPHIC_STRINGS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Final/LC2_REMOVE_DUPLICATES_ARRAY.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -53,6 +79,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Final/GFG_9_REMOVE_DUPLICATES_SORTED_ARRAY.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -75,60 +110,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Final/LC14_ISOMORPHIC_STRINGS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Final/GFG_4_COUNT_NUMBERS_CONTAINING_4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Final/LC3_RIGHT_ROTATE_ARRAY.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Final/LC4_LEFT_ROTATE_ARRAY.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Final/LC5_MOVE_ZEROS_END.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Final/LC6_MISSING_NUMBER_IN_ARRAY.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -144,11 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Arr4.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Arr5.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Arr6.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Sorting1.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Sorting2.java" />
         <option value="$PROJECT_DIR$/src/com/company/Sorting3.java" />
         <option value="$PROJECT_DIR$/src/com/company/Sorting4.java" />
         <option value="$PROJECT_DIR$/src/com/company/Sorting5.java" />
@@ -172,7 +148,6 @@
         <option value="$PROJECT_DIR$/src/com/company/Z12_TWO_SUM.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z9_BINARY_SEARCH.java" />
         <option value="$PROJECT_DIR$/src/com/company/Z10_MOVE_ZEROS_END.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LinkedList1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Stack1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Stack3.java" />
         <option value="$PROJECT_DIR$/src/Final/GFG_IMMEDIATE_SMALLER_ELEMENT.java" />
@@ -195,6 +170,12 @@
         <option value="$PROJECT_DIR$/src/Final/LC13_INTERSECTION_OF_TWO_ARRAYS.java" />
         <option value="$PROJECT_DIR$/src/Final/LC14_ISOMORPHIC_STRINGS.java" />
         <option value="$PROJECT_DIR$/src/Final/GFG_4_COUNT_NUMBERS_CONTAINING_4.java" />
+        <option value="$PROJECT_DIR$/src/Final/GFG_6_FIND_MISSING_SECOND_ARRAY.java" />
+        <option value="$PROJECT_DIR$/src/Final/GFG_8_COMMON_ELMENTS.java" />
+        <option value="$PROJECT_DIR$/src/Final/GFG_7_REMOVE_DUPLICATES_IN_SMALL_PRIME_ARRAY.java" />
+        <option value="$PROJECT_DIR$/src/Final/GFG_9_REMOVE_DUPLICATES_SORTED_ARRAY.java" />
+        <option value="$PROJECT_DIR$/src/Final/GFG_5_ARRAYS_EQUAL.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LinkedList1.java" />
       </list>
     </option>
   </component>
@@ -210,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,13 +220,14 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java Problems" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -262,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GFG_1_IMMEDIATE_SMALLER_ELEMENT">
+  <component name="RunManager" selected="Application.LinkedList1">
     <configuration name="GFG_1_IMMEDIATE_SMALLER_ELEMENT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Final.GFG_1_IMMEDIATE_SMALLER_ELEMENT" />
       <module name="Core Java" />
@@ -278,19 +259,6 @@
     </configuration>
     <configuration name="LC2_REMOVE_DUPLICATES_ARRAY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Final.LC2_REMOVE_DUPLICATES_ARRAY" />
-      <module name="Core Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Final.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC7_TWO_SUM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.LC7_TWO_SUM" />
       <module name="Core Java" />
       <extension name="coverage">
         <pattern>
@@ -328,13 +296,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LinkedList1" />
+      <module name="Core Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList1" />
         <item itemvalue="Application.GFG_1_IMMEDIATE_SMALLER_ELEMENT" />
         <item itemvalue="Application.LC2_REMOVE_DUPLICATES_ARRAY" />
         <item itemvalue="Application.LC9_MAXIMUM_SUBARRAY_SUM" />
         <item itemvalue="Application.LC8_MAJORITY_ELEMENT" />
-        <item itemvalue="Application.LC7_TWO_SUM" />
       </list>
     </recent_temporary>
   </component>
@@ -472,16 +453,20 @@
       <workItem from="1718171569337" duration="3241000" />
       <workItem from="1718206144608" duration="1205000" />
       <workItem from="1718220304581" duration="339000" />
+      <workItem from="1718288276053" duration="1091000" />
+      <workItem from="1718298331974" duration="1700000" />
+      <workItem from="1718344787256" duration="2994000" />
+      <workItem from="1718378363133" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232788000" />
+    <option name="totallyTimeSpent" value="238621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28619304" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30227882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,41 +519,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Arr5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Sorting2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Sorting3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Sorting4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Sorting5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Searching1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -644,13 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="130" column="24" selection-start-line="130" selection-start-column="24" selection-end-line="130" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -786,27 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/LC8_MAJORITY_ELEMENT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/LC9_MAXIMUM_SUBARRAY_SUM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/LC2_REMOVE_DUPLICATES_ARRAY.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Final/GFG_2_PARENTHESIS_CHECKER.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -821,17 +743,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/LC10_REMOVE_ELEMENT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Final/LC3_RIGHT_ROTATE_ARRAY.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/GFG_4_COUNT_NUMBERS_CONTAINING_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -856,10 +778,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/GFG_8_COMMON_ELMENTS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/GFG_7_REMOVE_DUPLICATES_IN_SMALL_PRIME_ARRAY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/GFG_6_FIND_MISSING_SECOND_ARRAY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/LC10_REMOVE_ELEMENT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/GFG_5_ARRAYS_EQUAL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/LC9_MAXIMUM_SUBARRAY_SUM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/LC8_MAJORITY_ELEMENT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/LC14_ISOMORPHIC_STRINGS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/LC2_REMOVE_DUPLICATES_ARRAY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Final/LC11_GROUP_ANAGRAMS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/GFG_9_REMOVE_DUPLICATES_SORTED_ARRAY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -877,17 +869,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/LC14_ISOMORPHIC_STRINGS.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/GFG_4_COUNT_NUMBERS_CONTAINING_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="238">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
     </entry>

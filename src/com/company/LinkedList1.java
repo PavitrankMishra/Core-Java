@@ -1,6 +1,7 @@
 package com.company;
 
 public class LinkedList1 {
+
     static class Node {
         int data;
         Node next;
@@ -15,6 +16,7 @@ public class LinkedList1 {
             Node temp = new Node();
             temp.data = val;
             temp.next = null;
+
             if(size == 0) {
                 head = tail = temp;
             } else {
@@ -40,61 +42,53 @@ public class LinkedList1 {
         }
 
         int getFirst() {
-            if(size == 0) {
-                return -1;
-            }else {
-                return head.data;
-            }
+            return head.data;
         }
 
         int getLast() {
             if(size == 0) {
-                return -1;
-            } else {
                 return tail.data;
-            }
-        }
-
-        int getAt(int idx) {
-            if(size == 0) {
-                return -1;
-            } else if(idx < 0 || idx > size) {
-                System.out.println("Invalid Arguments");
-                return -1;
             } else {
                 Node current = head;
-                for(int i=0;i<idx;i++) {
-                    current = head.next;
+                while(current.next != null) {
+                    current = current.next;
                 }
                 return current.data;
             }
         }
 
-        void removeLast() {
-            if(size == 0 ){
-                System.out.println("List is empty");
-            } else if(size == 1){
-                head = tail = null;
-                size = 0;
-            } else {
-                Node temp = head;
-                for(int i=0;i<size - 2;i++) {
-                    temp = temp.next;
-                }
-                tail = temp;
-                tail.next = null;
-                size--;
+        int getAt(int idx) {
+            Node current = head;
+            if(size == 0) {
+                return -1;
+            } else if(idx < 0 || idx > size) {
+                System.out.println("Invalid Arguments");
+                return -1;
             }
+            for(int i=0;i<idx;i++) {
+                current = current.next;
+            }
+            return current.data;
+        }
+
+        void removeLast() {
+            Node current = head;
+            for(int i=0;i<size - 2;i++) {
+                current = current.next;
+            }
+            current.next = null;
+            current = tail;
+            size--;
         }
 
         void removeAt(int idx) {
             if(size == 0) {
-                System.out.println("List ia empty");
-            } else if(idx < 0 || idx >= size) {
-                System.out.println("Invalid Arguments");
+                System.out.println("No element");
+            } else if(idx < 0 || idx > size) {
+                System.out.println("Invalid Areguments");
             } else {
-                Node current = head;
                 Node prev = null;
+                Node current = head;
                 for(int i=0;i<idx;i++) {
                     prev = current;
                     current = current.next;
@@ -119,16 +113,14 @@ public class LinkedList1 {
         ll1.printList();
         System.out.println();
         ll1.removeFirst();
-        System.out.println();
         ll1.printList();
         System.out.println();
         System.out.println(ll1.getFirst());
         System.out.println(ll1.getLast());
         System.out.println(ll1.getAt(5));
-        System.out.println();
         ll1.removeLast();
-        ll1.printList();
-        ll1.removeAt(5);
+        System.out.println();
+        ll1.removeAt(4);
         System.out.println();
         ll1.printList();
     }
