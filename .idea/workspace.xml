@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d0978abe-4774-457f-9eb4-b7fb698fde8a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java/com/company/LinkedList1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/LinkedList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LinkedList1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,8 +38,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="-845">
+              <caret line="167" column="41" lean-forward="true" selection-start-line="167" selection-start-column="41" selection-end-line="167" selection-end-column="41" />
+              <folding>
+                <element signature="e#1069#1070#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1134#1135#0" expanded="true" />
+                <element signature="e#1174#1175#0" expanded="true" />
+                <element signature="e#2234#2235#0" expanded="true" />
+                <element signature="e#2269#2270#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,23 +209,10 @@
               <item name="Core Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Core Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Final" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -227,7 +220,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java Problems" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -457,16 +450,17 @@
       <workItem from="1718298331974" duration="1700000" />
       <workItem from="1718344787256" duration="2994000" />
       <workItem from="1718378363133" duration="48000" />
+      <workItem from="1718529821935" duration="6088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238621000" />
+    <option name="totallyTimeSpent" value="244709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30227882" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30630028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -871,8 +865,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="-845">
+          <caret line="167" column="41" lean-forward="true" selection-start-line="167" selection-start-column="41" selection-end-line="167" selection-end-column="41" />
+          <folding>
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+            <element signature="e#2234#2235#0" expanded="true" />
+            <element signature="e#2269#2270#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
